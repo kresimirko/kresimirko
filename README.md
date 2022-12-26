@@ -16,4 +16,4 @@ NeoAzul (repository to be created)
 #### 2020/2021
 [Prepoznavanje emocija u slici prema dominantnoj boji](https://helios.com.hr/edit/2021/projekti/p01/index.html)
 #### 2021/2022
-[Digitalizacija televizije](https://edit.trema.hr/projekti/2022/osnovni/Brac-Mihovilovic/)
+[Digitalizacija televizije](https://edit.trema.hr/projekti/2022/osnovni/Brac-Mihovilovic/) ([source code](https://github.com/kresimirko/edit-digitalizacija-tv))
