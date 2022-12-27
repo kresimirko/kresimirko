@@ -1,6 +1,5 @@
 # Hello!
-I'm Luka, an amatuer developer from Croatia. I'll eventually come up with something witty to write here.
-
+I'm Luka, an amateur developer from Croatia. I'll eventually come up with something witty to write here.
 
 ## Mini portfolio
 Here's some stuff I'd like to highlight.
