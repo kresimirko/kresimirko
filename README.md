@@ -8,7 +8,7 @@ Here's some stuff I'd like to highlight.
 
 ## Work-in-progress works
 
-### [NeoAzul](https://github.com/kresimirko/neoazul/)
+### NeoAzul _(temporarily privated)_
 An image viewer that uses Qt
 
 ## [EDIT Code School](https://edit.dalmacija.hr/mod/page/view.php?id=5470) works
