@@ -1,17 +1,19 @@
 # Hello!
-I'm Luka, an amateur developer from Croatia. I'll eventually come up with something witty to write here.
+I'm Luka, a developer from Croatia.
 
 ---
 
 # Mini portfolio
-Here's some stuff I'd like to highlight.
+Here are some things I would like to highlight.
 
-## [EDIT Code School](https://digitalnadalmacija.hr/edit) works
+## School and [EDIT Code School](https://digitalnadalmacija.hr/edit) works
 
+### 2023/2024
+[Karta gradske jezgre Trogira](https://kresimirko.github.io/karta-trogira/) ([source code](https://github.com/kresimirko/karta-trogira))
 ### 2022/2023
 [kikipnt](https://kresimirko.github.io/kikipnt/#/) ([source code](https://github.com/kresimirko/kikipnt))
 ### 2021/2022
-[Digitalizacija televizije](https://kresimirko.github.io/digitalizacija-tv/) ([source code](https://github.com/kresimirko/edit-digitalizacija-tv))
+[Digitalizacija televizije](https://kresimirko.github.io/digitalizacija-tv/) ([source code](https://github.com/kresimirko/digitalizacija-tv))
 ### 2020/2021
 [Prepoznavanje emocija u slici prema dominantnoj boji](https://helios.com.hr/edit/2021/projekti/p01/index.html)
 ### 2019/2020
