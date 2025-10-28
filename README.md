@@ -1,20 +1,7 @@
+<a alt="Profile header" href="https://kresimirko.github.io/"><img width="739" height="305" alt="image" src="https://github.com/user-attachments/assets/086042d6-0c53-48a7-9f7b-d16ad7c43454" /></a>
+
 # Hello!
-I'm Luka, a developer from Croatia.
 
----
+I'm Luka, a Croatian developer. Freshman at [FESB - Faculty of Electrical Engineering, Mechanical Engineering and Naval Architecture](https://www.fesb.unist.hr/).
 
-# Mini portfolio
-Here are some things I would like to highlight.
-
-## School and [EDIT Code School](https://digitalnadalmacija.hr/edit) works
-
-### 2023/2024
-[Karta gradske jezgre Trogira](https://kresimirko.github.io/karta-trogira/) ([source code](https://github.com/kresimirko/karta-trogira))
-### 2022/2023
-[kikipnt](https://kresimirko.github.io/kikipnt/#/) ([source code](https://github.com/kresimirko/kikipnt))
-### 2021/2022
-[Digitalizacija televizije](https://kresimirko.github.io/digitalizacija-tv/) ([source code](https://github.com/kresimirko/digitalizacija-tv))
-### 2020/2021
-[Prepoznavanje emocija u slici prema dominantnoj boji](https://helios.com.hr/edit/2021/projekti/p01/index.html)
-### 2019/2020
-[Srednjovjekovni Trogir](https://helios.com.hr/edit/2020/projekti/trogir03/index.html)
+View my page/portfolio [here](https://kresimirko.github.io/).
