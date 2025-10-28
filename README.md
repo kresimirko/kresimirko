@@ -1,4 +1,4 @@
-<a alt="Profile header" href="https://kresimirko.github.io/"><img width="739" height="305" alt="image" src="https://github.com/user-attachments/assets/086042d6-0c53-48a7-9f7b-d16ad7c43454" /></a>
+<a alt="Profile header" href="https://kresimirko.github.io/"><img width="419" height="299" alt="image" src="https://github.com/user-attachments/assets/c4c355cf-8dc3-4777-bb6a-4f00e00b7283" /></a>
 
 # Hello!
 
