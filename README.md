@@ -2,6 +2,6 @@
 
 # Hello!
 
-I'm Luka, a Croatian developer. Freshman at [FESB - Faculty of Electrical Engineering, Mechanical Engineering and Naval Architecture](https://www.fesb.unist.hr/).
+This readme is yet to be finished.
 
-View my page/portfolio [here](https://kresimirko.github.io/).
+For now, view my page/portfolio [here](https://kresimirko.github.io/).
